@@ -10,6 +10,6 @@ func Add(a, b int) int {
 
 func main() {
 	a := 10
-	var b int = 5
+	b := 20
 	fmt.Println(Add(a, b))
 }
